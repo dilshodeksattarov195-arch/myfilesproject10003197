@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefetch",
+        "uuid": 2755814,
+        "checksum": "zbwiho"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
